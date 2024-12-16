@@ -1,0 +1,17 @@
+{
+  "hash": "1dff6c2e5e8413100d6d5b5326a7148a",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"2_second\"\nformat: \n  dashboard:\n   orientation: rows\n   embed-resources: true\n\nparams:\n  downsample_size: 103\n---\n\n::: {.cell}\n\n:::\n\n::: {.cell}\n\n:::\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n\n```\nFilter variable: condition_clean\n```\n\n\n:::\n\n::: {.cell-output .cell-output-stdout}\n\n```\nFilter_value: control\n```\n\n\n:::\n:::\n\n::: {.cell}\n\n:::\n\n\n\n## Row width={40%}\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](102_second_files/figure-html/unnamed-chunk-5-1.png){width=768}\n:::\n:::\n\n\n### Row {.tabset}\n\n\n\n::: {.cell title='original'}\n::: {.cell-output-display}\n![](102_second_files/figure-html/unnamed-chunk-6-1.png){width=768}\n:::\n:::\n\n::: {.cell title='filtered'}\n::: {.cell-output-display}\n![](102_second_files/figure-html/unnamed-chunk-7-1.png){width=768}\n:::\n:::\n\n\n\n## Row width{.fill}\n\n\n::: {.cell}\n\n:::\n",
+    "supporting": [
+      "102_second_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
