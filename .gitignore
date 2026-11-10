@@ -3,5 +3,9 @@
 .RData
 .Ruserdata
 
-/outout/
-/intermediate_data/
+/output/
+/intermediate_data/.quarto/
+.snakemake/
+/output/
+*.rds
+*.Rds
